@@ -1,8 +1,8 @@
-# Cargo Incident Manager 🚚📦
+# Cargo Incident Manager
 
 ## 📌 Objetivo do Projeto
 O **Cargo Incident Manager** é um software voltado para empresas que desejam monitorar, analisar e gerenciar informações relacionadas às suas operações logísticas.  
-O objetivo é centralizar dados de **cargas, avarias, extravios, desempenho de transportadoras e indicadores de risco**, oferecendo uma visão clara e confiável para equipes de Supply Chain, Segurança e Gestão de Riscos.
+O objetivo é centralizar dados de **cargas, avarias, extravios, desempenho de transportadoras e indicadores de risco**, oferecendo uma visão clara e confiável para equipes de Supply Chain, Security e Risk Management.
 
 A proposta do sistema é permitir que os usuários:
 - Registrem ocorrências de avarias e extravios.  
@@ -49,10 +49,8 @@ O desenvolvimento do **Cargo Incident Manager** proporcionou aprendizados import
 - **Pensamento orientado a produto:** planejar evoluções, funcionalidades futuras e melhorias contínuas.  
 - **Visão de arquitetura:** compreender como diferentes módulos (cadastro, análise, relatórios) se conectam para formar um sistema completo.
 
-Este projeto representa um passo importante na minha jornada como desenvolvedora, unindo tecnologia, dados e logística para criar soluções reais e aplicáveis ao mercado.
-
 ---
 
 ## 👩‍💻 Autora
 **Fernanda Pereira**  
-Estudante de Engenharia de Software | Front-end Developer  
+Estudante de Engenharia de Software
